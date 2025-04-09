@@ -1,5 +1,5 @@
 package edu.tcu.cs.hogwartsartifactsonline.wizard;
-
+// Griffin Kuchar
 import edu.tcu.cs.hogwartsartifactsonline.artifact.Artifact;
 import jakarta.persistence.*;
 
