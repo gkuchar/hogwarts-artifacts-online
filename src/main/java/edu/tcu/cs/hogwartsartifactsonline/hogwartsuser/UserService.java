@@ -16,7 +16,7 @@ public class UserService implements UserDetailsService {
 
     private final UserRepository userRepository;
 
-    private final PasswordEncoder passwordEncoder;
+    private PasswordEncoder passwordEncoder;
 
 
     public UserService(UserRepository userRepository, PasswordEncoder passwordEncoder) {
